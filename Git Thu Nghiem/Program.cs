@@ -11,7 +11,12 @@ namespace Git_Thu_Nghiem
         static void Main(string[] args)
         {
             Console.WriteLine(" Hello Word Git Thử NGhiệm !!!!");
-            Console.ReadKey();
+            int a =9 ; int b = 10;
+            Console.WriteLine(a+b);
+
+
+
+            Console.ReadLine();
         }
     }
 }
