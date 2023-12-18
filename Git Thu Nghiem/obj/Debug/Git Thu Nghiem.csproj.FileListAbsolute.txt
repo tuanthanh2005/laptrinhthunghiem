@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\bin\Debug\Git Thu Nghiem.exe.config
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\bin\Debug\Git Thu Nghiem.exe
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\bin\Debug\Git Thu Nghiem.pdb
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\obj\Debug\Git Thu Nghiem.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\obj\Debug\Git Thu Nghiem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\obj\Debug\Git Thu Nghiem.exe
+C:\Users\ACER\source\repos\Save Git\Git Thu Nghiem\obj\Debug\Git Thu Nghiem.pdb
